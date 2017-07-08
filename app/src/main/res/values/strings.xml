@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Neyveli Info</string>
+    <string name="category_info">Info</string>
+    <string name="category_theatres">THEATRES</string>
+    <string name="category_hotels">HOTELS</string>
+    <string name="category_banks">BANKS</string>
+
+    <!--theatre info are stored here -->
+    <string name="jpa_theatre">JAYAPRIYA THEATRE</string>
+    <string name="jpa_theatre_description">JAYAPRIYA THEATRE BELONGS TO JPA GROUPS.LONG YEARS AGO IT WAS FONDLY CALLED AS"GANAPATHI THEATRE"
+    </string>
+    <string name="jpa_theatre_address">NH 532, OLD NEYVELI, TAMILNADU - 607802 </string>
+    <string name="jpa_theatre_phone"> 04142262392  </string>
+    <string name="jpa_theatre_schedule">
+        10-12 pm------>>> morning show
+        2-4 pm ------>> evening show
+        6-9 pm ------>> evening show
+        10-12am ------>> night show </string>
+
+    <string name="mhlk_theatre">MAHALAKSHMI THEATRE</string>
+    <string name="mhlk_theatre_description">MAHALAKSHMI THEATRE IS ONLY A HIGH CLASS THEATRE WHICH WAS RUNNING ON AIRCON...@MANDARAKUPPAM</string>
+    <string name="mhlk_theatre_address">PERIYAKURICHI,NEYVELI-2,CUDDALORE,TAMILNADU-607802</string>
+    <string name="mhlk_theatre_phone">04142262308</string>
+    <string name="mhlk_theatre_schedule"> 10-12 pm------>>> morning show
+     2-4 pm ------>> evening show
+        6-9 pm ------>> evening show
+    10-12am ------>> night show </string>
+
+    <string name="nr_theatre">NIDHI RATNA</string>
+    <string name="nr_theatre_description">NIDHI RATNA THEATRE WAS ALSO BELONGS TO JPA INSTITUTIONS WHICH WAS SITUATED AT NEYVELI TOWNSHIP</string>
+    <string name="nr_theatre_address">BLOCK 12,TTK SALAI,NEYVELI-T.S, \n TAMILNADU-607803 </string>
+    <string name="nr_theatre_phone"> 9842489347 </string>
+    <string name="nr_theatre_schedule"> 10-12 pm------>>> morning show
+     2-4 pm ------>> evening show
+      6-9 pm ------>> evening show
+     10-12am ------>> night show </string>
+
+    <string name="rn_theatre">RANGAA</string>
+    <string name="rn_theatre_description">RANGA THEATRE WAS SITUATED AT NEYVELI TOWNSHIP</string>
+    <string name="rn_theatre_address">THANTHAI PERIYAR ROAD, BLOCK-5, NEYVELI , TAMILNADU -607803 </string>
+    <string name="rn_theatre_phone"> 09952329028 </string>
+    <string name="rn_theatre_schedule"> 10-12 pm------>>> morning show
+    2-4 pm ------>> evening show
+      6-9 pm ------>> evening show
+     10-12am ------>> night show </string>
+
+    <!-- banks info are stored here -->
+    <string name="bank_icici">ICICI BANK</string>
+    <string name="bank_icici_description">It is a psu bank which was situated @ neyveli township near main bazzar</string>
+    <string name="bank_icici_address">P.B.NO:18, UNIT 5/5, MAIN BAZZAR, AUROBINDO ROAD, NEYVELI T.S, TAMILNADU-607803</string>
+    <string name="bank_icici_phone">070356 67777</string>
+    <string name="bank_icici_schedule">WORKING DAYS: ALL BUSINESS DAYS
+     sunday holiday</string>
+
+    <string name="bank_sbi">SBI BANK</string>
+    <string name="bank_sbi_description">IT IS A PSU BANK WHICH IS SITUATED ON NH532 HIGHWAY</string>
+    <string name="bank_sbi_address">WORKING DAYS: ALL BUSINESS DAYS
+                                    sunday holiday</string>
+    <string name="bank_sbi_phone">04142262272</string>
+    <string name="bank_sbi_schedule">WORKING DAYS: ALL BUSINESS DAYS
+    /n sunday holiday</string>
+
+    <string name="bank_can">CANARA BANK</string>
+    <string name="bank_can_description">IT IS A PSU BANK WHICH IS SITUATED NEAR MINES 2</string>
+    <string name="bank_can_address">M.K.COLONY,NEYVELI,TAMILNADU 607802</string>
+    <string name="bank_can_phone">989898989898</string>
+    <string name="bank_can_schedule">WORKING DAYS: ALL BUSINESS DAYS
+                                     sunday holiday</string>
+
+    <string name="bank_lvb">Lakhmi vilas bank</string>
+    <string name="bank_lvb_description">it is also psu bank which is situated near jayapriya theatre</string>
+    <string name="bank_lvb_address">SH-532, nanthanar nagar, neyveli, mandarakuppam, tamilnadu -607802</string>
+    <string name="bank_lvb_phone">9080585161</string>
+    <string name="bank_lvb_schedule">WORKING DAYS: ALL BUSINESS DAYS
+    /n sunday holiday</string>
+
+
+    <!-- hotels info are here -->
+    <string name="hotel_bd">BLUE DIAMOND</string>
+    <string name="hotel_bd_description">A PERFECT 5 STAR HOTEL WAS SITUATED AT TOWNSHIP</string>
+    <string name="hotel_bd_address">kamraj street / rajaji street, block-19, neyveli,tamilnadu 607803</string>
+    <string name="hotel_bd_phone">9787501499</string>
+    <string name="hotel_bd_schedule">24*7 SERVICE , working round the clock</string>
+
+
+    <string name="hotel_rad">RADHA HOTEL</string>
+    <string name="hotel_rad_description">RATING 3.6 REVIEWED BY GOOGLE</string>
+    <string name="hotel_rad_address">BLOCK-16,NEYVELI T.S,TAMILNADU 607801</string>
+    <string name="hotel_rad_phone">04142252692</string>
+    <string name="hotel_rad_schedule">24*7 SERVICE , working round the clock</string>
+
+    <string name="hotel_krish">KRISHNA HOTEL</string>
+    <string name="hotel_krish_description">RATING 3.6 REVIEWED BY GOOGLE</string>
+    <string name="hotel_krish_address">boarding and lodging, 360/1 Indira nagar, Neyveli , Tamil nadu 607801</string>
+    <string name="hotel_krish_phone">04142256184</string>
+    <string name="hotel_krish_schedule">24*7 SERVICE , working round the clock</string>
+
+    <!-- info activity -->
+    <string name="nvl_info">NEYVELI INFO</string>
+    <string name="nvl_des">WELCOME TO POWER CITY</string>
+    <string name="nvl_story">In 1935, the presence of black particles was discovered and the analysis led to the discovery of lignite reserves beneath the areas in and around neyveli village.The neyveli lignite corporation was formed as a corporate body in 1956 by the government of india and the mining of  lignite started in  1962!!!!!!</string>
+
+    <string name="nvl_rail">NEYVELI RAILWAY</string>
+    <string name="nvl_rail_des">neyveli proudly invites you to the pride of nation.</string>
+    <string name="nvl_rail_history">THE RAILWAY HAS BEEN SET UP BY BRITISH IN 1968</string>
+
+    <string name="nvl_abt">this app will make you to learn abt nvl</string>
+    <string name="nvl_abt_des">here u will get more info abt banks,rail,shop,theatres,hotels</string>
+    <string name="nvl_abt_history">past 50 years ago neyveli had been one of the populast city running with more than 200 shops</string>
+
+</resources>
